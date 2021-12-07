@@ -1,0 +1,8 @@
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "text": "Hello again2"
+}
+###
+GET http://localhost:8080/

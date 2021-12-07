@@ -1,0 +1,9 @@
+2021-12-07 14:32:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS MESSAGES([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS messages( [42001-200]
+2021-12-07 14:39:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MASSAGES" not found; SQL statement:
+select * from massages [42102-200]
+2021-12-07 14:40:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MASSAGES" not found; SQL statement:
+select * from massages [42102-200]
